@@ -60,7 +60,9 @@ if (stopwatchBtn.innerHTML === 'start') {
     stopwatchSeconds.innerHTML = 0;
     stopwatchMinutes.innerHTML = 0;
     stopwatchHours.innerHTML = 0;
+    hour = 0
     second = 0
+    min = 0
 
 }
    
